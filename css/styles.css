@@ -239,7 +239,7 @@ button {
 
 .team-item {
         background-color: #FFF;
-        border-radius: 0px, 0px, 4px, 4px;
+        border-radius: 0px 0px 4px 4px;
         flex-basis: calc((100% - 72px) / 4);
 }
 
